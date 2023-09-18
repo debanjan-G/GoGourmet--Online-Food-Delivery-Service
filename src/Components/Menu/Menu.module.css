@@ -1,0 +1,10 @@
+.section-title {
+    font-size: 2.5rem;
+}
+
+.container {
+    background-color: #F8F3D4;
+    padding: 1rem;
+    border-radius: 15px;
+    box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);
+}
