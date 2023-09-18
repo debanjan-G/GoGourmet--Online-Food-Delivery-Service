@@ -1,6 +1,4 @@
 # GoGourmet--Online-Food-Delivery-Service
-Welcome to GoGourmet, your one-stop solution for online food ordering and delivery! This open-source React web application brings the convenience of ordering delicious meals right to your fingertips
-GoGourmet: Online Food Delivery Service
 Welcome to GoGourmet, your one-stop solution for online food ordering and delivery! This open-source React web application brings the convenience of ordering delicious meals right to your fingertips. With GoGourmet, you can explore a wide range of restaurants, browse mouth-watering menus, and have your favorite dishes delivered to your doorstep, all from the comfort of your home.
 
 Project Overview
