@@ -1,26 +1,31 @@
-# GoGourmet--Online-Food-Delivery-Service
-Welcome to GoGourmet, your one-stop solution for online food ordering and delivery! This open-source React web application brings the convenience of ordering delicious meals right to your fingertips. With GoGourmet, you can explore a wide range of restaurants, browse mouth-watering menus, and have your favorite dishes delivered to your doorstep, all from the comfort of your home.
+# GoGourmet
 
-Project Overview
-GoGourmet is a front-end focused web application that showcases the user interface and user experience of an online food delivery service. While the current implementation does not include a backend or real-time order processing, it serves as an engaging and interactive prototype for a food delivery platform.
+Welcome to GoGourmet, your solution for online food ordering and delivery! This React web application provides a user-friendly interface for exploring restaurants, browsing menus, and ordering meals for delivery.
 
-Key Features
-Menu Exploration: View detailed menus with enticing images and descriptions.
-Add to Cart: Customize your order and add items to your cart for easy checkout.
-Quantity Adjustment: Easily modify the quantity of items in your cart.
-Error Handling: Receive feedback on valid quantity ranges and item availability.
-Responsive Design: Enjoy a seamless experience on both desktop and mobile devices.
-Getting Started
-To explore and run GoGourmet on your local machine, follow these simple steps:
+## Demo Video:
 
-Clone this repository to your local environment.
-Open the project directory in your code editor.
-Install the necessary dependencies using npm install.
-Start the development server with npm start.
-Feel free to customize and extend this project to add backend functionality, integrate payment gateways, and enhance the overall user experience. GoGourmet is designed as a starting point for building a full-fledged online food delivery platform.
-
-Contributing
-I welcome contributions from the open-source community! Whether you're interested in improving the UI, adding new features, or fixing bugs, your contributions will be highly appreciated. Please check out our contribution guidelines for more information.
+https://github.com/user-attachments/assets/d2dba831-e52d-4113-90f5-e3f143f20993
 
 
-Thank you for choosing GoGourmet for your food delivery service inspiration. I look forward to seeing your contributions and innovations!
+## Project Overview
+
+GoGourmet is a front-end focused application that serves as an interactive prototype for a food delivery platform. It showcases the user interface and experience without backend or real-time order processing.
+
+## Key Features:
+
+- **Menu Exploration**: View detailed menus with images and descriptions.
+- **Add to Cart**: Customize orders and add items to your cart.
+- **Quantity Adjustment**: Modify item quantities easily.
+- **Error Handling**: Get feedback on quantity ranges and item availability.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+
+## Getting Started
+
+To run GoGourmet locally:
+
+1. Clone this repository.
+2. Open the project directory in your code editor.
+3. Install dependencies with `npm install`.
+4. Start the development server with `npm start`.
+
+Thank you for exploring GoGourmet!
